@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jeremyleey.intellijplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jeremyleey.intellijplugin.MyBundle
 
 class MyApplicationService {
 
